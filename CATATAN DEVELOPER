@@ -1,0 +1,34 @@
+CATATAN
+
+A. Database
+	1. Tabel Pelanggan (pelanggan)
+		a. Keterangan Level
+			1 = Pimpinan
+			2 = Master Customer Service
+			3 = Customer Service
+			4 = Master Produksi
+			5 = Produksi Umum
+			6 = Keuangan
+			7 = Desain
+			8 = Packing
+			9 = Master Lipat1
+			10 = Master Lipat2
+			11 = Master Lipat3
+			12 = Master Lipat4
+			13 = Master Lipat5
+			14 = Administrator Sistem
+	
+	2. Anggota kelompok
+		Keterangan Level
+			1 = Lipat1
+			2 = Lipat2
+			3 = Lipat3
+			4 = Lipat4
+			5 = Lipat5
+			
+	2. Tabel Barang	(desainbarang)
+	
+B. File
+
+
+OPOLAH IKI BRO!!!
